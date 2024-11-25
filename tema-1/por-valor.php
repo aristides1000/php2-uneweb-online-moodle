@@ -1,5 +1,7 @@
-<?php function suma($a, $b) { // Definición de la función y sus parámetros
-   $c = $a + $b;
-   return $c;  // Retorna el valor de la función
-}
+<?php
+  function suma($a, $b) { // Definición de la función y sus parámetros
+    $c = $a + $b;
+    return $c;  // Retorna el valor de la función
+  }
+  echo suma(3, 7);
 ?>
