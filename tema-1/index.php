@@ -8,6 +8,7 @@
 <body>
   <p><a href="./accion.php">accion.php</a></p>
   <p><a href="./funcion.php">funcion.php</a></p>
-  <p><a href="./practico.php">Practico.php</a></p>
+  <p><a href="./por-referencia.php">por-referencia.php</a></p>
+  <p><a href="./por-valor.php">por-valor.php</a></p>
 </body>
 </html>
