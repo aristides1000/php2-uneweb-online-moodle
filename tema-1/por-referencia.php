@@ -8,4 +8,3 @@
   // $a es 6 aquí
   echo $a;
 ?>
-

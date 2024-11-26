@@ -1,4 +1,7 @@
 <?php
-  $persona = array('nombre'=>'Juan','apellido'=>'perez','pais'=>'venezuela');
+  $persona = array(
+    'nombre' => 'Juan',
+    'apellido' => 'perez',
+    'pais' => 'venezuela'
+  );
 ?>
-

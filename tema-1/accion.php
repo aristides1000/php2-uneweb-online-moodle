@@ -1,10 +1,7 @@
-<?php 
+<?php
+  function imprimirMensaje($mensaje) {
+    echo $mensaje;
+  }
 
-function imprimirMensaje($mensaje) {
-  echo $mensaje;
-}
-
-imprimirMensaje("Hola, mundo!"); // Imprime "Hola, mundo!"
-
-
+  imprimirMensaje("Hola, mundo!"); // Imprime "Hola, mundo!"
 ?>
