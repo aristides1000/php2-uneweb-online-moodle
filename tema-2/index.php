@@ -6,7 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  <p><a href="./arreglos.php">accion.php</a></p>
+  <p><a href="./arreglos.php">arreglos.php</a></p>
   <p><a href="./arreglos_asociativos.php">arreglos_asociativos.php</a></p>
   <p><a href="./funcion_foreach.php">funcion_foreach.php</a></p>
   <p><a href="./funcion_list.php">funcion_list.php</a></p>
