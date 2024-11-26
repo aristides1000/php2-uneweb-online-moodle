@@ -8,7 +8,7 @@
 <body>
   <p><a href="./arreglos.php">accion.php</a></p>
   <p><a href="./arreglos_asociativos.php">arreglos_asociativos.php</a></p>
-  <p><a href="./función_for_each.php">función_for_each.php</a></p>
-  <p><a href="./función_list.php">función_list.php</a></p>
+  <p><a href="./funcion_foreach.php">funcion_for_each.php</a></p>
+  <p><a href="./funcion_list.php">funcion_list.php</a></p>
 </body>
 </html>

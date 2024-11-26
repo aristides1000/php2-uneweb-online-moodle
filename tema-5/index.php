@@ -6,10 +6,9 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>temario 2 php</h1>
-  <p><a href="./tema-1">tema-1</a></p>
-  <p><a href="./tema-2">tema-2</a></p>
-  <p><a href="./tema-4">tema-4</a></p>
-  <p><a href="./tema-5">tema-5</a></p>
+  <p><a href="./.php">.php</a></p>
+  <p><a href="./.php">.php</a></p>
+  <p><a href="./.php">.php</a></p>
+  <p><a href="./.php">.php</a></p>
 </body>
 </html>
