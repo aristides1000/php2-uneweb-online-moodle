@@ -9,6 +9,6 @@
   $mes[6] = "julio";
   // Imprimir  el vector, usando estructura de control iterativas
   for($i=0; $i<7; $i++)   {
-    echo ($mes[$i] . "<Br>") ;
+    echo ($mes[$i] . "<br>") ;
    }
 ?>
