@@ -6,9 +6,6 @@
   <title>Document</title>
 </head>
 <body>
-  <p><a href="./.php">.php</a></p>
-  <p><a href="./.php">.php</a></p>
-  <p><a href="./.php">.php</a></p>
-  <p><a href="./.php">.php</a></p>
+  <p><a href="./pag1.php">pag1.php</a></p>
 </body>
 </html>
