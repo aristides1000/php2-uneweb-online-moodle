@@ -13,6 +13,7 @@ if (isset($_POST["estilo"])) {
    <style type="text/css">
       body {
          background: <?php print $estilo; ?>;
+         color:aqua;
       }
    </style>
 </head>

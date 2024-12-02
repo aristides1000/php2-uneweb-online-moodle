@@ -1,0 +1,20 @@
+*{
+  margin:0;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  border:0px;
+  gap: 5px;
+  align-items: center
+}
+
+td{
+  width: 292px;
+  height: 23px;
+  align-items: center;
+}
+
+.text{
+  font-size: 10px;
+}
