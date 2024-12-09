@@ -6,7 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  <p><a href="./calculadora.php">calculadora.php</a></p>
+  <p><a href="./encuesta.php">encuesta.php</a></p>
 
 </body>
 </html>
