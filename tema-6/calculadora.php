@@ -9,7 +9,7 @@
 <body>
 <?php  include "./funcion.php";?>
   <form action="" method="POST">
-    <h3> Calculadora</h3>
+    <h3>Calculadora</h3>
     <input class="text" type="text" name="num1">
     <input class="text" type="text" name="num2">
     <div>
