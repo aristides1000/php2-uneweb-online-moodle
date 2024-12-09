@@ -23,8 +23,7 @@
       <input type="submit" value="^3" name="operacion">
       <input type="submit" value="Raiz" name="operacion">
     </div>
-    <h2>Resultado: <?php echo calculo(@$_POST['num1'],@$_POST['num2'],@$_POST['operacion']); ?></h2>
+    <h2>Resultado: <?php echo calculo(@$_POST['num1'], @$_POST['num2'], @$_POST['operacion']); ?></h2>
   </form>
 </body>
 </html>
-
