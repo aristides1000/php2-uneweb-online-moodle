@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}
+
+td div {
+  height: 3rem;
+  border-radius: 0.5rem;
+  max-width: 20rem;
+}
+
+table, td, th, tr {
+  border: 1px solid black;
+}
