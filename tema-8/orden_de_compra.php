@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr>
-      <td><input type="checkbox" name="borradores" value="1600" />Lapices</td>
+      <td><input type="checkbox" name="borradores" value="1600" />Borradores</td>
       <td><input type="text" name="cant_borradores" size="4" value="<?php echo @$_POST['cant_borradores'];?>"/></td>
       <td>
         <?php
@@ -54,7 +54,7 @@
       </td>
     </tr>
     <tr>
-      <td><input type="checkbox" name="reglas" value="2100" />Lapices</td>
+      <td><input type="checkbox" name="reglas" value="2100" />Reglas</td>
       <td><input type="text" name="cant_reglas" size="4" value="<?php echo @$_POST['cant_reglas'];?>"/></td>
       <td>
         <?php
