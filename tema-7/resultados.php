@@ -63,27 +63,27 @@
     <tr>
       <td>Torta de Chocolate</td>
       <td><?php echo $op1." ".round($p1, 2) ?> %</td>
-      <td><div style="width: <?php echo $p1 * 7 ?>px; background-color: Tomato"></div></td>
+      <td><div style="width: <?php echo round($p1, 2) ?>%; background-color: Tomato"></div></td>
     </tr>
     <tr>
       <td>Torta tres leches</td>
       <td><?php echo $op2." ".round($p2, 2) ?> %</td>
-      <td><div style="width: <?php echo $p2 * 7 ?>px; background-color: Orange"></div></td>
+      <td><div style="width: <?php echo round($p2, 2) ?>%; background-color: Orange"></div></td>
     </tr>
     <tr>
       <td>Quesillo</td>
       <td><?php echo $op3." ".round($p3, 2) ?> %</td>
-      <td><div style="width: <?php echo $p3 * 7 ?>px; background-color: DodgerBlue"></div></td>
+      <td><div style="width: <?php echo round($p3, 2) ?>%; background-color: DodgerBlue"></div></td>
     </tr>
     <tr>
       <td>Torta Selva Negra</td>
       <td><?php echo $op4." ".round($p4, 2) ?> %</td>
-      <td><div style="width: <?php echo $p4 * 7 ?>px; background-color: MediumSeaGreen"></div></td>
+      <td><div style="width: <?php echo round($p4, 2) ?>%; background-color: MediumSeaGreen"></div></td>
     </tr>
     <tr>
       <td>Pie de limón</td>
       <td><?php echo $op5." ".round($p5, 2) ?> %</td>
-      <td><div style="width: <?php echo $p5 * 7 ?>px; background-color: SlateBlue"></div></td>
+      <td><div style="width: <?php echo round($p5, 2) ?>%; background-color: SlateBlue"></div></td>
     </tr>
   </table>
 </body>
