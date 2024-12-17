@@ -1,20 +1,20 @@
-*{
+* {
   margin:0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body,form{
+body, form {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  align-items: center
+  align-items: center;
 }
 
-input{
+input {
   padding:5px;
 }
 
-.text{
+.text {
   font-size: 10px;
 }
