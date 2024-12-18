@@ -89,7 +89,7 @@
   Por cada 20 unidades 5% de descuento<br />
   Por cada 50 unidades 10% de descuento<br />
   Por cada 100 unidades 15% de descuento<br />
-  <table border="1" cellpadding="6">
+  <table>
     <tr>
       <td>Total</td>
       <td><?php
