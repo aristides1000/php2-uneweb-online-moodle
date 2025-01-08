@@ -46,7 +46,7 @@
   </form>
 
   <br>
-  <table width="600" border="1" align ="center">
+  <table>
   <tr>
   <td width="271" align="center">Temas</td>
   <td width="75" align="center">Autor</td>

@@ -12,8 +12,10 @@ table{
 
 tbody{
   border: solid 1px black;
+  
 }
 
 td{
   border: solid 1px black;
+  padding : 0 10px;
 }

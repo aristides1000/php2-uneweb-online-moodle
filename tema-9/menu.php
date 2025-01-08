@@ -9,8 +9,8 @@
 <body>
   <table>
     <tr>
-      <td><a href="./foro.php">foro</a></td>
-      <td><a href="./agregar_tema">agregar tema</a></td>
+      <td><a href="./foro.php">Foro</a></td>
+      <td><a href="./agregar_tema">Agregar Tema</a></td>
     </tr>
   </table>
 </body>
