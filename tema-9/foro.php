@@ -75,7 +75,7 @@
   <td>
 
   <?php 
-  $sql2="select id from respuesta where id_tema='$ver[0]'";
+  $sql2="select id from respuesta where id_contenido='$ver[0]'";
   $filas=mysqli_query($conex,$sql2);
   print mysqli_num_rows($filas);
   ?>
