@@ -18,4 +18,5 @@ tbody{
 td{
   border: solid 1px black;
   padding : 0 10px;
+  align-self: center;
 }

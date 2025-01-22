@@ -14,7 +14,7 @@
   <br>
 
   <form id="form1" name="form1" method="post" action="">
-  <table align ="center">
+  <table>
   <tr>
   <td><label for="buscar">Temas</label></td>
   <td><input type="text" name="buscar" id="buscar" /></td>
@@ -48,10 +48,10 @@
   <br>
   <table>
   <tr>
-  <td width="271" align="center">Temas</td>
-  <td width="75" align="center">Autor</td>
-  <td width="89" align="center">Fecha</td>
-  <td width="68" align="center">Respuestas</td>
+  <td>Temas</td>
+  <td>Autor</td>
+  <td>Fecha</td>
+  <td>Respuestas</td>
   </tr>
   <?php 
   if(@$_POST['buscar'])
@@ -70,9 +70,9 @@
   while($ver=mysqli_fetch_array($con)){
   ?> <tr>
   <td><a href="temas.php?cual=<?php print $ver[0]?>"><?php print $ver[1]?></a></td>
-  <td align="center"><?php print $ver[2]?></td>
-  <td align="center"><?php print $ver[3]?></td>
-  <td align="center">
+  <td><?php print $ver[2]?></td>
+  <td><?php print $ver[3]?></td>
+  <td>
 
   <?php 
   $sql2="select id from respuesta where id_tema='$ver[0]'";
