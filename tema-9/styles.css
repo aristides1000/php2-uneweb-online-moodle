@@ -23,6 +23,7 @@ td{
 .table > tbody{
   border : none;
 }
-.buscar_por_autor , .buscar_por_temas{
+
+.buscar_por_autor, .buscar_por_temas, .menu{
   border:none;
 }
