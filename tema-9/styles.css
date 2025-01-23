@@ -20,3 +20,10 @@ td{
   padding : 0 10px;
   align-self: center;
 }
+
+.table > tbody{
+  border : none;
+}
+.buscar_por_autor , .buscar_por_temas{
+  border:none;
+}
