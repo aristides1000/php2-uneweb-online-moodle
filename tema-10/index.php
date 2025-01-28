@@ -6,7 +6,9 @@
   <title>Document</title>
 </head>
 <body>
-  <p><a href="./foro.php">foro.php</a></p>
+  <p><a href="./agregar_tema.php">agregar_tema.php</a></p>
+  <p><a href="./agregar_tema2.php">agregar_tema2.php</a></p>
+  <p><a href="./temas.php">temas.php</a></p>
 
 </body>
 </html>
