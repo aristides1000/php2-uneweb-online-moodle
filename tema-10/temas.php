@@ -9,7 +9,7 @@
     <?php
     include "./conexion.php";
     include "./menu.php";
-    $sql="select id,titulo,tema,autor,fecha,hora from tema where id='$_GET[cual]' ";
+    $sql="select id,titulo,contenido,autor,fecha,hora from tema where id='$_GET[cual]' ";
     $con=mysqli_query($conex,$sql);
     $ver=mysqli_fetch_array($con);
     ?>
