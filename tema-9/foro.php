@@ -42,7 +42,7 @@
       </td>
 
       <td class="buscar_por_autor">
-        <input type="submit" name="button2" id="button2" value="Buscar" />
+        <input type="submit" name="button2" id="button2" value="buscar" />
       </td>
 
       </tr>
@@ -70,7 +70,7 @@
     ?>
     <tr>
     <td>
-      <a href="temas.php?cual=<?php print $ver[0]?>"><?php print $ver[1]?></a>
+      <a href="../tema-10/temas.php?cual=<?php print $ver[0]?>"><?php print $ver[1]?></a>
     </td>
     <td><?php print $ver[2]?></td>
     <td><?php print $ver[3]?></td>

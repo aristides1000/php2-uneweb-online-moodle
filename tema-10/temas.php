@@ -7,8 +7,8 @@
 </head>
   <body>
     <?php
-    include "conexion.php";
-    include "menu.php";
+    include "./conexion.php";
+    include "./menu.php";
     $sql="select id,titulo,tema,autor,fecha,hora from tema where id='$_GET[cual]' ";
     $con=mysqli_query($conex,$sql);
     $ver=mysqli_fetch_array($con);
@@ -33,7 +33,7 @@
           <input name="oculto" type="hidden" id="oculto" value="<?php print $ver[0];?>" />
         </tr>
         <tr>
-          <td colspan ="2" align ="center"> <input type="submit" name="button" id="button" value="Responder" /> </td>
+          <td> <input type="submit" name="button" id="button" value="Responder" /> </td>
         </tr>
       </table>
     </form>
