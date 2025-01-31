@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <link rel="stylesheet" href="./styles.css">
 </head>
   <body>
     <?php
@@ -21,11 +21,11 @@
     Contenido: <?php print $ver[2];?></p>
     <p>
     Responder al tema</p>
-    <form id="form1" name="form1" method="post" action="agregar_respuesta.php">
-      <table>
+    <form id="form1" name="form1" method="post" action="./agregar_respuesta.php">
+      <table id="temas">
         <tr>
           <td><label for="respuesta">Respuesta</label> </td>
-          <td><textarea name="respuesta" id="respuesta" cols="45" rows="5"></textarea> </td>
+          <td><textarea name="respuesta" id="respuesta"></textarea> </td>
         </tr>
         <tr>
           <td><label for="autor">Autor:</label> </td>

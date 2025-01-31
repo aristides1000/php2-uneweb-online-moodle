@@ -17,7 +17,6 @@ tbody{
 td{
   border: solid 1px black;
   padding : 0 10px;
-
 }
 
 .table > tbody{
@@ -26,4 +25,16 @@ td{
 
 .buscar_por_autor, .buscar_por_temas, .menu{
   border:none;
+}
+
+#temas{
+  justify-self: start;
+}
+#titulo{
+}
+#contenido{
+
+}
+#autor{
+
 }

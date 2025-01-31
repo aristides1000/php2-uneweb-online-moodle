@@ -11,5 +11,5 @@ else
 {
 print "Estamos en mantenimiento";
 } ?>
-<meta http-equiv="refresh" content="2;URL=agregar_tema.php" />
+<meta http-equiv="refresh" content="2;URL=./agregar_tema.php" />
 
