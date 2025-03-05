@@ -32,7 +32,7 @@
             <input name="oculto" type="hidden" id="oculto" value="<?php print $ver[0];?>" />
           </tr>
           <tr>
-            <td> <input type="submit" name="button" id="button" value="Responder" /> </td>
+            <td colspan="2" class="td-center"> <input type="submit" name="button" id="button" value="Responder" /> </td>
           </tr>
         </table>
       </form>

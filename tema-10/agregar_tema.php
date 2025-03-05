@@ -24,7 +24,7 @@
           <td><input type="text" name="autor" id="autor" ></td>
         </tr>
         <tr>
-          <td><input type="submit" name="button" id="button" value="Enviar"></td>
+          <td colspan="2" class="td-center"><input type="submit" name="button" id="button" value="Enviar"></td>
         </tr>
       </table>
     </form>

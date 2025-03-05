@@ -27,10 +27,6 @@ td{
   border:none;
 }
 
-#temas{
-  justify-self: start;
-}
-
 .temas-alignment {
   display: flex;
   flex-direction: column;
@@ -39,4 +35,8 @@ td{
 
 .temas-hr {
   width: 20%;
+}
+
+.td-center {
+  text-align: center;
 }
