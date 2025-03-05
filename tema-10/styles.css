@@ -30,11 +30,13 @@ td{
 #temas{
   justify-self: start;
 }
-#titulo{
-}
-#contenido{
 
+.temas-alignment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-#autor{
 
+.temas-hr {
+  width: 20%;
 }
